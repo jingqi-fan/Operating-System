@@ -1,0 +1,3 @@
+D:/zOperationLab/lab3_memore/lab3Memory_Own/cmake-build-debug/CMakeFiles/lab3Memory_Own.dir
+D:/zOperationLab/lab3_memore/lab3Memory_Own/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/zOperationLab/lab3_memore/lab3Memory_Own/cmake-build-debug/CMakeFiles/rebuild_cache.dir
