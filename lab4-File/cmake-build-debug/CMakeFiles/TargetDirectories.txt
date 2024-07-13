@@ -1,0 +1,3 @@
+D:/zOperationLab/handin/lab4File-20226758/cmake-build-debug/CMakeFiles/lab4File_own.dir
+D:/zOperationLab/handin/lab4File-20226758/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/zOperationLab/handin/lab4File-20226758/cmake-build-debug/CMakeFiles/rebuild_cache.dir
